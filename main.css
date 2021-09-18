@@ -1,3 +1,8 @@
-body {{
+body {
     background-color: #ccc;
-}}
+}
+
+button {
+    color: red;
+    margin-right: 12px;
+}
