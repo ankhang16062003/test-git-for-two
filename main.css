@@ -5,3 +5,8 @@ body {
 button {
     color: red;
 }
+
+div {
+    background-color: red;
+    font-size: 1.2px;
+}
